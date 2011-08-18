@@ -1,0 +1,9 @@
+d45cbf31625965942dc56c2cb8935ada *ChangeLog
+da3eb8261664ed2de2828c4c262f29f2 *DESCRIPTION
+b3e8e5372378aaa9c51f7b4a2187b052 *NAMESPACE
+ed15e197f3a02a51ac32e2d53af63876 *NEWS
+c5890f44f21a1604e5d5e271d8cbcf6b *R/ieeeround.R
+4a717f7bb9875639072038dc49fbd1ec *man/ieeeround.Rd
+1f78c25835586a34a4e4b56a42a3018a *src/ieeeround.c
+57af134f02b275afaf3cdea747a3b5a7 *src/ieeeround.h
+59fe25e9d6f76f03e451bc9f55b601a1 *tests/Examples/ieeeround-Ex.Rout.save
